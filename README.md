@@ -1,6 +1,7 @@
 <h1 align="center"> Social Networking API </h1>
    <img src="./assets/Screen Shot 2023-10-23 at 10.28.47 PM.png" />
-    <img src="./assets/Screen Shot 2023-10-23 at 10.28.10 PM.png
+    <img src="./assets/Screen Shot 2023-10-23 at 10.28.10 PM.png" />
+    
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
@@ -69,4 +70,4 @@ With Nodemon:
 :octocat: [Adrian Manzanares](https://github.com/Adrianman562)
 
 ## Questions
-✉️ Contact me with any questions: [GitHub](https://github.com/Adrianman562)<br />
+Contact me with any questions: [GitHub](https://github.com/Adrianman562)<br />
